@@ -1,7 +1,10 @@
-<<<<<<< HEAD
-# Projeto-Recomenda-o-Codenation
-Projeto de um sistema de recomendação do AceleraDev Codenation
-=======
-# Projeto de Recomendação 
-Projeto de um sistema de recomendação do AceleraDev Codenation
->>>>>>> f423e79010dc6761806904f68f7c40852895241f
+# Projeto de um sistema de recomendação do AceleraDev Codenation
+
+O repositório contem todo o projeto de recomendação feito para a aceleração de Data Science Codenation!
+
+Por: *Guilherme Reis Mendes*
+
+- Main 
+- Model
+- Streamlit
+- Data
