@@ -1,10 +1,21 @@
-# Projeto de um sistema de recomendação do AceleraDev Codenation
+# Projeto Final do AceleraDev Data Science!
+### Sistema de recomendação de clientes
 
-O repositório contem todo o projeto de recomendação feito para a aceleração de Data Science Codenation!
-
-Por: *Guilherme Reis Mendes*
+O Repositório contém todo o desenvolvimento do projeto.
 
 - Main 
 - Model
 - Streamlit
 - Data
+
+**Site desenvolvido para o projeto:**
+https://recommendation-codenation.herokuapp.com/
+
+**Descrição das variáveis:**
+https://s3-us-west-1.amazonaws.com/codenation-challenges/ml-leads/features_dictionary.pdf
+
+**Dataset do Market inteiro sem pré-processamento:**
+https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_market.csv.zip
+
+*Guilherme Reis Mendes*
+https://www.linkedin.com/in/guilherme-reis-2862ab153/
