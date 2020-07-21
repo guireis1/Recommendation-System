@@ -1,5 +1,4 @@
-# Projeto Final do AceleraDev Data Science!
-### Sistema de recomendação de clientes
+## Recommendation System
 
 O Repositório contém todo o desenvolvimento do projeto.
 
@@ -22,4 +21,4 @@ https://codenation-challenges.s3-us-west-1.amazonaws.com/ml-leads/estaticos_mark
 
 *Guilherme Reis Mendes*
 
-https://www.linkedin.com/in/guilherme-reis-2862ab153/
+https://www.linkedin.com/in/guilhermereismendes/
